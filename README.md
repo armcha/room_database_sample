@@ -5,7 +5,7 @@ https://developer.android.com/topic/libraries/architecture/room.html
 ### Device Nexus 5x<br />
 
  Delete time for **1000** items - **303** milliseconds<br />
- Insert time for **1000** items - **04** milliseconds<br />
+ Insert time for **1000** items - **204** milliseconds<br />
  Read time for **1000** items - **31** milliseconds<br />
  
  

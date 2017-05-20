@@ -34,4 +34,7 @@ public interface UserDao {
 
     @Delete
     void deleteAll(User... users);
+
+    @Delete
+    void deleteAll(List<User> users);
 }

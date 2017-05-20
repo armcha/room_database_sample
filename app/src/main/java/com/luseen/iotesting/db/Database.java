@@ -8,7 +8,7 @@ import com.luseen.iotesting.App;
  * Created by Chatikyan on 19.05.2017.
  */
 
-public class Database {
+public class Database  {//095611222
 
     private static Database database = null;
 

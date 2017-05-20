@@ -1,4 +1,4 @@
-# Room database sample
+# Room database sample whit ViewModel
 
 https://developer.android.com/topic/libraries/architecture/room.html
 
